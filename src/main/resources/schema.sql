@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS high_score (
+   id LONG AUTO_INCREMENT PRIMARY KEY,
+   highest INT NOT NULL
+);
